@@ -1,0 +1,17 @@
+D:\MyProjects\ClassLibrary_CalculateFiguresArea\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\MyProjects\ClassLibrary_CalculateFiguresArea\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\MyProjects\ClassLibrary_CalculateFiguresArea\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\MyProjects\ClassLibrary_CalculateFiguresArea\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.deps.json
+D:\MyProjects\ClassLibrary_CalculateFiguresArea\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.json
+D:\MyProjects\ClassLibrary_CalculateFiguresArea\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.dev.json
+D:\MyProjects\ClassLibrary_CalculateFiguresArea\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.dll
+D:\MyProjects\ClassLibrary_CalculateFiguresArea\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.pdb
+D:\MyProjects\ClassLibrary_CalculateFiguresArea\UnitTestProject1\bin\Debug\netcoreapp2.1\ClassLibrary_CalculateFiguresArea.dll
+D:\MyProjects\ClassLibrary_CalculateFiguresArea\UnitTestProject1\bin\Debug\netcoreapp2.1\ClassLibrary_CalculateFiguresArea.pdb
+D:\MyProjects\ClassLibrary_CalculateFiguresArea\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csprojAssemblyReference.cache
+D:\MyProjects\ClassLibrary_CalculateFiguresArea\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\MyProjects\ClassLibrary_CalculateFiguresArea\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfoInputs.cache
+D:\MyProjects\ClassLibrary_CalculateFiguresArea\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfo.cs
+D:\MyProjects\ClassLibrary_CalculateFiguresArea\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CopyComplete
+D:\MyProjects\ClassLibrary_CalculateFiguresArea\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.dll
+D:\MyProjects\ClassLibrary_CalculateFiguresArea\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.pdb
